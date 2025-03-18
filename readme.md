@@ -67,10 +67,10 @@ print("GloVe embeddings downloaded and extracted!")
 
 ## 📊 Key Findings
 
-1️⃣ **FastText performs best for fictional text** as it handles **rare words & invented vocabulary** (e.g., *"Muggle"* in Harry Potter).  
-2️⃣ **Word2Vec is effective for structured texts** but struggles with **out-of-vocabulary (OOV) words**.  
-3️⃣ **GloVe performs well on general NLP tasks** but lacks **genre-specific adaptability** for fiction.  
-4️⃣ **FastText produces better-defined clusters** in **t-SNE and PCA visualizations**.  
-5️⃣ **Silhouette Score confirms FastText forms stronger semantic clusters** compared to Word2Vec & GloVe.  
+1️. **FastText performs best for fictional text** as it handles **rare words & invented vocabulary** (e.g., *"Muggle"* in Harry Potter).  
+2️. **Word2Vec is effective for structured texts** but struggles with **out-of-vocabulary (OOV) words**.  
+3️. **GloVe performs well on general NLP tasks** but lacks **genre-specific adaptability** for fiction.  
+4️. **FastText produces better-defined clusters** in **t-SNE and PCA visualizations**.  
+5️. **Silhouette Score confirms FastText forms stronger semantic clusters** compared to Word2Vec & GloVe.  
 
 
