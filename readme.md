@@ -1,7 +1,6 @@
 # Evaluating Word Embeddings in Fictional Narratives
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)  
-[![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-%F0%9F%93%96-orange)](https://jupyter.org/)  
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/) [![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-%F0%9F%93%96-orange)](https://jupyter.org/)  
 
 ### A Comparative Study of Word2Vec, FastText, and GloVe in Literary Text Analysis
 
